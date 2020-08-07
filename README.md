@@ -1,6 +1,6 @@
 # Setup Boilerplate
 
-DO THIS FIRST!
+DO THIS FIRST! (If you have an API key)
 1. `npm i`
 2. Create .env file  (for super secret passwords!)
 3. `npx install-peerdeps --dev eslint-config-airbnb`
