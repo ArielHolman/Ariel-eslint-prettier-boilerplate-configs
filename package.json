@@ -10,7 +10,7 @@
     "eslint",
     "prettier"
   ],
-  "author": "Clayton Berger",
+  "author": "Ariel Holman",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.5.0",
